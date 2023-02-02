@@ -1,0 +1,74 @@
+
+body{
+    background-color: #F6F3EA;
+    font-family: 'Roboto', sans-serif;
+    display:block;
+    margin:20 20 20 35px;
+    padding:20px;
+
+}
+#presentacion{
+    background-color: #DDC4EA;
+    text-align: center;
+    border: 2px solid #61A5F2;
+    padding:10px 5px;
+    margin:10px 5px 10px 5px;
+    border-radius: 0px 33px 0px 33px;
+}
+.barra_navegacion{
+    background-color: #D9D5F2;
+    padding:5px;
+    margin:5px;
+    font-size: 20px;
+    text-transform: uppercase; 
+}
+a:link{
+    color:#7E55D9;
+    text-decoration:none;
+    padding:2px;
+}
+a:visited{
+    color:#7E55D9;
+    text-decoration:none;
+    padding:2px;
+}
+a:hover{
+    color:#5055D9;
+    text-decoration:none;
+    padding:4px;
+    background-color: cornflowerblue;
+}
+#cursos{
+    background-color: #D9D5F2;
+    padding: 15px 60px 15px 45px;
+    margin: 5px;
+    border: 2px dotted rgb(129, 129, 248);
+    width: 30%;
+    text-align: center;
+    display:none;
+}
+button{
+    background-color: #D9D5F2;
+    padding: 10px;
+    margin:3px;
+    border: dotted rgb(129, 129, 248);
+    border-radius: 25px 25px 25px 25px;
+}
+.boton:active{
+    background-color: #0471DE;
+}
+footer{
+    background-color:  #D5ADDB;
+    margin:4px 0px;
+    padding: 3px;
+    text-align: center;
+    width:100%;
+    font-size: 15px;
+}
+header{
+    text-align: center;
+}
+footer h2{
+    padding: 3px;
+    margin: 3px;
+}
